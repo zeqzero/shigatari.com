@@ -22,7 +22,7 @@ telephone: (123) 456-7890
 copyright: Your Site
 
 # API settings
-google_api_key: AIzaSyA8H0jVz_6Hc273rqNYKQ6AAiBvQfVKmYQ
+google_api_key:
 
 # Build settings
 markdown: kramdown
