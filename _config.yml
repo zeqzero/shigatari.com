@@ -1,21 +1,19 @@
 # Site settings
-title: Stylish Portfolio
-email: your-email@domain.com
+title: Shigatari
+email: shigatarigame@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Samurai Roguelite with Period Art
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # User setting
-owner: Start Bootstrap
-email: name@example.com
-facebook_username: example
-twitter_username: example
-github_username: example
+owner: Shigatari
+email: shigatarigame@gmail.com
+facebook_username: shigatari
+twitter_username: shigatari
+github_username: shigatari
 address:
-  - line: 3481 Melrose Hill St
+  - line: "123 Fake St"
   - line: "Los Angeles, CA 90029"
   # Feel free to add more lines here 
 telephone: (123) 456-7890
