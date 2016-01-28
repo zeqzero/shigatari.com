@@ -10,6 +10,7 @@ html,
 body {
     width: 100%;
     height: 100%;
+    background: #000000;
 }
 
 body {
@@ -27,6 +28,16 @@ body {
     padding: 0;
     font-size: 4.5em;
     font-weight: 700;
+}
+
+@font-face {
+    font-family: 'kaushan';
+    src: url(../fonts/KaushanScript-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'ilse';
+    src: url(../fonts/Ilse-Normal.ttf);
 }
 
 /* Custom Button Styles */
@@ -165,7 +176,24 @@ hr.small {
 /* About */
 
 .about {
-    padding: 50px 0;
+    padding: 12px 0;
+}
+
+.about_text {
+    font-size: 16px;
+    color: #E0D6CC;
+}
+
+.about_heading {
+    font-size: 64px;
+    padding: 20px 0px 0px 0px;
+    text-align: bottom;
+    color: #E0D6CC;
+    font-family: ilse;
+}
+
+.about_image {
+    margin: 12px 0px;
 }
 
 /* Services */
@@ -240,5 +268,5 @@ hr.small {
 /* Footer */
 
 footer {
-    padding: 100px 0;
+    padding: 12px 0;
 }

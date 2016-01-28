@@ -7,17 +7,18 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # User setting
-owner: Shigatari
+owner: shigatari.com
 email: shigatarigame@gmail.com
 facebook_username: shigatari
 twitter_username: shigatari
+tumblr_username: shigatari
 github_username: shigatari
 address:
   - line: "123 Fake St"
   - line: "Los Angeles, CA 90029"
   # Feel free to add more lines here 
 telephone: (123) 456-7890
-copyright: Your Site
+copyright: shigatari.com
 
 # API settings
 google_api_key:
